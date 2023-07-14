@@ -18,6 +18,7 @@ export function ComputerThing(props: any) {
 
   const objb = {
     b: '100',
+    c: '200',
   };
 
   const obj = {
